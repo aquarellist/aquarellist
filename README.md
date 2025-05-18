@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aquarellist Frontend Developer
-- 👀 интересен опыт работы над реальными полезными проектами в коллективе
+- 👀 I am interested in the experience of working on real useful projects in a team
 - 📫 How to reach me 108oh@mail.ru
